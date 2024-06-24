@@ -1,4 +1,4 @@
-class TreeNode:  # 이진 트리의 노들들 나타내는 클래스
+class TreeNode:  # 이진 트리의 노들들 나타내는 클래스 .
     def __init__(self, priority, data):
         self.priority = priority  # Parameters:
         self.data = data          # priority : 우선순위 값
