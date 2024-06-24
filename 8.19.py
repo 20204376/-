@@ -1,4 +1,4 @@
-# 이진 탐색 트리의 노드를 나타내는 클래스
+## 이진 탐색 트리의 노드를 나타내는 클래스
 class Node:
     def __init__(self, value):
         self.value = value  # 노드의 값 (우선순위)
